@@ -52,5 +52,3 @@ Los ultimos 2 puntos son usados  como marcas,2  puntos separados  a un 1.80 metr
     Nota: si se le pone usuario y contraseña al servidor de la cmara ip, no se podra conectar 
     para realizar el analsis
 
-# FaceApp
-# FaceApp
